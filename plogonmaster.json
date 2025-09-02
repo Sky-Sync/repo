@@ -3,7 +3,7 @@
         "Author": "Excelzn",
       "Name": "Shonin Sync",
       "InternalName": "ShoninSync",
-      "AssemblyVersion": "1.2.1.0",
+      "AssemblyVersion": "1.2.1.1",
       "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
       "ApplicableVersion": "any",
       "RepoUrl": "https://github.com/excelznlifesblood-oss/client",
@@ -12,10 +12,10 @@
       ],
       "DalamudApiLevel": 13,
         "LoadPriority": 0,
-        "IconUrl": "https://github.com/excelznlifesblood-oss/client/releases/download/v1.2.1.0/icon.png",
+        "IconUrl": "https://github.com/excelznlifesblood-oss/client/releases/download/v1.2.1.1/icon.png",
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/excelznlifesblood-oss/client/releases/download/v1.2.1.0/latest.zip"
+        "DownloadLinkInstall": "https://github.com/excelznlifesblood-oss/client/releases/download/v1.2.1.1/latest.zip"
       }
 ]
