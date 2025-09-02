@@ -12,10 +12,10 @@
       ],
       "DalamudApiLevel": 13,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/excelznlifesblood-oss/client/main/MareSynchronos/images/logo.png",
+        "IconUrl": "https://github.com/excelznlifesblood-oss/client/releases/download/v1.2.1.0/icon.png",
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/excelznlifesblood-oss/client/releases/download/v1.2.0.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/excelznlifesblood-oss/client/releases/download/v1.2.1.0/latest.zip"
       }
 ]
